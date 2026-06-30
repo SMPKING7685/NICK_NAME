@@ -23,6 +23,7 @@ module.exports = {
             '`/setup create` — Create the auto-nickname channel\n' +
             '`/setup reset` — Recreate the auto-nickname channel\n' +
             '`/setup disable` — Disable auto-nickname\n' +
+            '`/ping` — Check bot latency\n' +
             '`/help` — Show this message',
         },
         {
